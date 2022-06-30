@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1 align="center">Welcome to JMS-Pet-Sitting 🐾</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/Our twitter names\*" target="_blank">
+    <img alt="Twitter: Our twitter names" src="https://img.shields.io/twitter/follow/Our twitter names\*.svg?style=social" />
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This web application allows pet owners to connect with pet lovers willing to provide pet-sitting services. This application also allows all users to make blog like posts that will appear in a feed for everyone. The motivation behind this project was to fill the gap of pet owners often times not having many options when having to leave their pets behind. We have a passion for pets and want to take the stress off owners and their pets by giving the owner as many options as possible with the ability to cater to their pets needs.
 
-## Available Scripts
+## 👨‍💻 [Technologies]
 
-In the project directory, you can run:
+-HTML
+-CSS
+-JavaScript
+-React
+-MongoDB
+-Express
 
-### `npm start`
+### 🏠 [Homepage](homepage picture)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🚀 [Demo](project demo url)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started/Installation
 
-### `npm test`
+> If you would like to contribute, feel free to fork the repo and submit a pull request. We appreciate any contributions you make!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> If you have a small suggestion that would make this application better feel free to submit an issue ticket, or reach out to us personally!
 
-### `npm run build`
+-1. Fork the project
+-2. Create your own feature branch(git checkout -b feature/yourFeature)
+-3. Add your changes(git add .)
+-4. Commit your changes(git commit -m 'Add cool new feature/change')
+-5. Push to the branch(git push origin feature/yourFeature)
+-6. Open a pull request
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Authors
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👤 **Julian Segura, Shraddha Anand, and Meesum Ashary**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Website: Our portfolio sites
+- Twitter: [@Our twitter names](https://twitter.com/Our twitter names)
+- LinkedIn: [@Our linkedin names](https://linkedin.com/in/Our linkedin names)
 
-### `npm run eject`
+## Show your support
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give this project a ⭐️ if this project helped you!
