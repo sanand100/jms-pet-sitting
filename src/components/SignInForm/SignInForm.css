@@ -1,0 +1,18 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+#main-container{
+    place-items: center center
+}
+
+.JMS-Logo{
+    width: 4.5em;
+    height: 4.5em;
+}
+
+#sign-in-form{
+    max-width: 30em ;
+}
+
+.form-control:focus{
+    z-index: 5;
+}
